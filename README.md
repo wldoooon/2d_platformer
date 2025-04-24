@@ -1,11 +1,13 @@
 # 🎮 2D Platformer Game 
 
-A fun 2D platformer game built with [mention technology/engine, e.g., Pygame, Unity, Godot]. Jump, run, and explore!
+A fun 2D platformer game built with Pygame. Jump, run, and explore!
+
+![Gameplay Preview](gif/gamplay.gif)
 
 ## ✨ Features
 
-*   Classic platformer movement (run, jump)
-*   Obstacles
+*    Classic platformer movement (run, jump)
+*    Obstacles
 
 
 ## 🚀 Getting Started / How to Play
