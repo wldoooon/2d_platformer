@@ -2,7 +2,7 @@
 
 A fun 2D platformer game built with Pygame. Jump, run, and explore!
 
-[Gameplay Preview](gif/gamplay.gif)
+[Gameplay Preview](gif/gameplay.gif)
 
 ## ✨ Features
 
