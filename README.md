@@ -1,4 +1,4 @@
-# 🎮 2D Platformer Game 
+# 2D Platformer Game 
 
 A fun 2D platformer game built with Pygame. Jump, run, and explore!
 
