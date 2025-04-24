@@ -16,7 +16,6 @@ A fun 2D platformer game built with Pygame. Jump, run, and explore!
 
 1.  **Prerequisites:** Make sure you have [mention prerequisites, e.g., Python 3, Pygame library] installed.
     ```bash
-    # Example for Python/Pygame
     pip install pygame
     ```
 2.  **Clone the repository (optional if you already have it):**
