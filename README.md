@@ -27,18 +27,10 @@ A fun 2D platformer game built with Pygame. Jump, run, and explore!
     python main.py
     ```
 
-**(Option 2: If you have builds/executables)**
-
-1.  Download the latest release from the [Releases](https://github.com/wldoooon/2d_platformer/releases) page.
-2.  Unzip the downloaded file.
-3.  Run the executable (`game.exe` or similar).
-
 **Controls:**
 *   ⬅️ : Move Left
 *   ➡️ : Move Right
 *   Space : Jump
 
-## 🤝 Contributing (Optional)
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+.
 
