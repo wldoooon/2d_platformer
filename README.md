@@ -2,15 +2,15 @@
 
 A fun 2D platformer game built with Pygame. Jump, run, and explore!
 
-[Gameplay Preview](gif/gameplay.gif)
+![Gameplay Preview](gif/gameplay.gif)
 
-## ✨ Features
+##  Features
 
 *    Classic platformer movement (run, jump)
 *    Obstacles
 
 
-## 🚀 Getting Started / How to Play
+##  Getting Started / How to Play
 
 **(Option 1: If it's playable directly from source)**
 
@@ -40,7 +40,7 @@ A fun 2D platformer game built with Pygame. Jump, run, and explore!
 *   ➡️ : Move Right
 *   Space : Jump
 
-## 🛠️ Built With
+##  Built With
 
 *   [Framework] - Pygame
 *   [Programming Language] - Python
